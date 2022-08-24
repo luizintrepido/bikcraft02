@@ -17,7 +17,7 @@ O layout do site foi desenvolvido durante o curso de Web Design Completo da [Ori
 ## 🌐 Projeto final
 [Clique aqui](https://luizintrepido.github.io/bikcraft02/) para acessar o projeto no ar!
 
-![image](https://user-images.githubusercontent.com/93409913/144731452-0a7af71a-045d-4a59-b030-75f35f2495d9.png)
+![image]
 
 
 ---
